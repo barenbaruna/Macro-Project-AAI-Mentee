@@ -9,7 +9,7 @@ The dataset used in this project is a combination of two sources from Kaggle:
    - [Link to dataset](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)
 2. Additional data with twelve classes: battery, biological, white-glass, brown-glass, cardboard, clothes, green-glass, metal, paper, plastic, shoes, and trash.
    - [Link to dataset](https://www.kaggle.com/datasets/mostafaabla/garbage-classification)
-3.  Final dataset after pre-processing
+3. Final dataset after pre-processing
    - [Link to dataset](https://drive.google.com/drive/folders/1p_URIjIpd7PQY3v7YpOt_po4e3Wepzdf?usp=sharing)
 
 ## Dataset Preparation
